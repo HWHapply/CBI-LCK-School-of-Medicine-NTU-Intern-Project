@@ -1,4 +1,4 @@
-# NOVEL ALGORITHMS FOR PREDICTING MENTAL HEALTH STATUS FROM CLINICAL TEST AND GENE EXPRESSION DATA
+# Novel Algorithms for predicting mental health status from clinical test and gene expression data
 
 Abstract: The rapid development of artificial intelligence(AI) technologies has enabled efficient
 and accurate early prediction of AD and dementia. The aim of this project is to develop
