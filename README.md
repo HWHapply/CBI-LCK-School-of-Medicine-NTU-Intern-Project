@@ -8,10 +8,12 @@ cell gene expression datasets, and train AI models for predicting mental health 
 There are two main research directions. 
 
 ## Code discription:
+### Dementia predicting using the clinical test data
 ·The first is developing a method based on a hand-drawing task developed by CUHK counterparts, evaluating if performance can
 be enhanced by combining it with clinical Montreal Cognitive Assessment(MoCA)
 tasks to determine which part is meaningful for mental health status prediction.
 
+### Alzhemer's Disease predicting using blood-baed gene expression data
 ·The other is the modeling of dementia using blood-based gene expression data from
 ADNI and ANMerge. Developing a novel pipeline to remove the batch effect, select
 significant genes, and predict the Alzhemer's Disease. This project can lead to new digital
